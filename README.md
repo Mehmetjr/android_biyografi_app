@@ -13,6 +13,14 @@
 # Proje Resimleri
   
  <p> 
-  
+  <a href="https://github.com/Mehmetjr/android_biyografi_app/blob/main/images/biyografi1.png" target="_blank">
+  <img src="https://github.com/Mehmetjr/android_biyografi_app/blob/main/images/biyografi1.png" width="200" style="max-width:100;">
+  </a>
+   <a href="https://github.com/Mehmetjr/android_biyografi_app/blob/main/images/biyografi2.png" target="_blank">
+  <img src="https://github.com/Mehmetjr/android_biyografi_app/blob/main/images/biyografi2.png" width="200" style="max-width:100;">
+  </a>
+   <a href="https://github.com/Mehmetjr/android_biyografi_app/blob/main/images/biyografi3.png" target="_blank">
+  <img src="https://github.com/Mehmetjr/android_biyografi_app/blob/main/images/biyografi3.png" width="200" style="max-width:100;">
+  </a>
   </p>
   
